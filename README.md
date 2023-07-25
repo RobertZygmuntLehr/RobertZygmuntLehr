@@ -9,9 +9,9 @@ My skill set includes proficiency in Excel, Python, SQL, Tableau, R, and more. I
 - **Traffic Incident Visualization:** At the Center for Transportation Research, I utilized R, ggplot, and Leaflet to visualize traffic incident locations, enabling data-driven decisions for transportation improvements.
 
 - **Data Visualization and Analytics BootCamp Projects:** During the BootCamp, I completed several practical projects showcasing my data analysis and visualization skills. Some of the projects I've worked on include:
-  - [Belly Button Biodiversity Exploration Dashboard](https://github.com/DataScience-Skills/Belly-Button-Biodiversity-Exploration-Dashboard)
-  - [Live Geospatial Data Visualization](https://github.com/DataScience-Skills/Live-Geospatial-Data-Visualization)
   - [Visualizing The Great Freeze - Texas Energy Prices Across Sectors](https://github.com/DataScience-Skills/Project-3-Visualizing-Data)
+  - [Live Geospatial Data Visualization](https://github.com/DataScience-Skills/Live-Geospatial-Data-Visualization)
+  - [Biodiversity Exploration Dashboard](https://github.com/DataScience-Skills/Belly-Button-Biodiversity-Exploration-Dashboard)
 
 ### Goals and Aspirations
 
