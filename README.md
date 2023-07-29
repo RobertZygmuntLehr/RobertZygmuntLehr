@@ -2,7 +2,7 @@
 
 ### Data Science Skills
 
-My skill set includes proficiency in Excel, Python, SQL, Tableau, R, and more. I am continuously expanding my expertise through a Data Visualization and Analytics BootCamp.
+I am on a journey exploring the world of data science. My skill set includes proficiency in Excel, Python, SQL, Tableau, R, and more. I am continuously expanding my expertise through a Data Visualization and Analytics BootCamp.
 
 ### Notable Projects
 
