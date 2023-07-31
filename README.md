@@ -1,6 +1,7 @@
 # About Me
 
 Tools I am familiar with and use:
+
 - Python
 - JavaScript
 - SQL
@@ -8,7 +9,7 @@ Tools I am familiar with and use:
 - R
 - Excel
 - VBA
-
+ 
 to build machine learning models, scrape the web, run API calls, generate interactive visualizations, do statistical analyses, and tell stories. Explore the projects in these [repositories](https://github.com/robert-z-lehr?tab=repositories).
 
 ### Notable Projects
