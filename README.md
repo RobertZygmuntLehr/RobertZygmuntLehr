@@ -14,7 +14,7 @@ Finding hidden patterns in data and presenting it in intuitively digestible visu
 
 <h3 align="left"> Example Proejcts:</h3>
 
-| Topic  | Summary |
+| Project  | Skills |
 | ------------- | ------------- |
 | [Visualizing - 2021 Texas Great Freeze Imapct on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
 |[Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
