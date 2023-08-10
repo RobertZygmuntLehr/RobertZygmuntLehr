@@ -28,6 +28,13 @@ Finding hidden patterns in data and presenting them in intuitively digestible vi
 
 ### Goals and Aspirations
 
-My goal, as a data scientist, is to bring value to the team I work with and to contribute to meaningful solutions. I am particularly interested in applying my skills in domains related to higher education, sustainable and resilience design, energy conservation, music, and innovative startups.
+My goal, as a data scientist, is to bring value to the team I work with and to contribute to meaningful solutions. I am particularly interested in applying my skills in domains related to:
+| Domain | Relevant Projects |
+| ------------- | ------------- |
+| Higher Education |
+| Sustainability & Resilience Design |
+| Energy Conservation |
+| Music |
+| Startups & Innovation |
 
 If you have any questions or would like to connect, don't hesitate to reach out. Let's work together to make data-driven decisions and shape a better future!
