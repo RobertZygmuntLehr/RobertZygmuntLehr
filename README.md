@@ -2,13 +2,17 @@
 
 As an aspiring data scientist and constant learner, I have built up skills in:
 
-- Python
-- JavaScript
-- SQL
-- Tableau
-- R
-- Excel
-- VBA
+<h3 align="left"> Example Proejcts:</h3>
+
+| Skills | Icon |
+| ------------- | ------------- |
+| Python |
+| JavaScript |
+| SQL |
+| Tableau |
+| R |
+| Excel |
+| VBA |
  
 Finding hidden patterns in data and presenting it in intuitively digestible visualiaations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories).
 
