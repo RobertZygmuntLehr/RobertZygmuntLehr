@@ -13,7 +13,7 @@ As an aspiring data scientist and constant learner, I have built up skills in:
 | R | <a href="[https://https://www.learn-js.org/](https://www.r-project.org/other-docs.html)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="javascript" width="40" height="40"/> </a> |
 | Excel | <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
 | VBA | <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
- 
+
 Finding hidden patterns in data and presenting them in intuitively digestible visualiaations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories).
 
 <h3 align="left"> Example Proejcts:</h3>
