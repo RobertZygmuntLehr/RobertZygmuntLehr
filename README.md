@@ -14,7 +14,7 @@ As an aspiring data scientist and constant learner, I have built up skills in:
 | Excel |
 | VBA |
  
-Finding hidden patterns in data and presenting it in intuitively digestible visualiaations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories).
+Finding hidden patterns in data and presenting them in intuitively digestible visualiaations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories).
 
 <h3 align="left"> Example Proejcts:</h3>
 
