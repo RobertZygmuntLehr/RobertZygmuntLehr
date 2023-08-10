@@ -11,8 +11,7 @@ Finding hidden patterns in data and presenting them in intuitively digestible vi
 | pSQL | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> |
 | Tableau | <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
 | R | <a href="[https://https://www.learn-js.org/](https://www.r-project.org/other-docs.html)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="javascript" width="40" height="40"/> </a> |
-| Excel | <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
-| VBA | <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
+| Excel VBA| <a href="https://https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
 
 <h3 align="left"> Example Proejcts:</h3>
 
