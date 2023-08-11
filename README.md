@@ -2,27 +2,9 @@
 
 Finding hidden patterns in data and presenting them in intuitively digestible visualizations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories). As an aspiring data scientist and constant learner these are some of the tools and skills I have used to complete the projects in my portfolio:
 
-<style>
-    table {
-        width: 100%; /* Set the table width to 100% of its containing element */
-    }
-</style>
-
-<table>
-    <tr>
-        <th>Skills</th>
-        <th>Icon</th>
-    </tr>
-    <tr>
-        <td>Python</td>
-        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    </tr>
-    <!-- Add more rows as needed -->
-</table>
-
 | Skills | Icon |
 | ------------- | ------------- |
-| Python | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
+| Python | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="400" height="40"/> </a> |
 | Pandas | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> |
 | Scikit-Learn | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> |
 | JavaScript | <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |
