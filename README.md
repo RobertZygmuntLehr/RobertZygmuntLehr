@@ -5,12 +5,6 @@ Finding hidden patterns in data and presenting them in intuitively digestible vi
 
 
 <div style="display: flex; align-items: flex-start;">
-    <table>
-          | Skills | Icon |
-          | ------------- | ------------- |
-          | Python | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
-    </table>
-    
     <div style="flex: 1; padding-left: 20px;">
       | Skills | Icon |
       | ------------- | ------------- |
