@@ -1,6 +1,6 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-Finding hidden patterns in data and presenting them in intuitively digestible visualizations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr?tab=repositories). As an aspiring data scientist and constant learner these are some of the tools and skills I have used to complete the projects in my portfolio:
+Finding hidden patterns in data and presenting them in intuitively digestible visualizations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main). As an aspiring data scientist and constant learner these are some of the tools and skills I have used to complete the projects in my portfolio:
 
 | Skills | Icon |
 | ------------- | ------------- |
