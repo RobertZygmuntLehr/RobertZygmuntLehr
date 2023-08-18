@@ -2,7 +2,7 @@
 
 Finding hidden patterns in data and presenting them in intuitively digestible visualizations are my data science passions. Explore my projects in my [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main). As an aspiring data scientist and constant learner these are some of the tools and skills I have used to complete the projects in my portfolio:
 
-<h3 align="left"> Example Proejcts:</h3>
+<h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
 | Project  | Skills |
 | ------------- | ------------- |
