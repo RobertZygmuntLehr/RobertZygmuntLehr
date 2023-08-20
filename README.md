@@ -4,7 +4,7 @@ Finding hidden patterns in data and presenting them in intuitively digestible vi
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
-| Project  | Skills |
+| Project  | Tools & Skills |
 | ------------- | ------------- |
 | [Visualizing - 2021 Texas Great Freeze Imapct on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
 |[Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
