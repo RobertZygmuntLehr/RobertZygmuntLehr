@@ -2,7 +2,7 @@
 
 We function in a data-centric economy; being data literate and presenting uncovered patterns in intuitively digestible formats has become a valuable asset for improving certainty and business growth.
 
-To familiarize yourself with a variety of common data science tools, from data wrangling and visualizations to API calls and machine learning, and more, explore this series of data science education projects in the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) (work in progress). Using these projects and cheat sheets as reference materials benefity me as an aspiring data scientist, and perhaps they will benefit you too. A sample of some of the projects are seen here:
+To familiarize yourself with a variety of common data science tools, from data wrangling and visualizations to API calls and machine learning, and more, explore this series of data science education projects in the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) (work in progress). Using these projects and cheat sheets as reference materials continue to benefit me as an aspiring data scientist. A sample of the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main):
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
