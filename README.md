@@ -1,6 +1,8 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-We function in a data-centric economy, so being data literate and understanding how to find patterns in data and presenting them in intuitively digestible formats is a necessity for confidence and business growth. To familiarize yourself with a variety of common data science tools, from data wranglins and visualizations to API calls and machine learning, and more, explore this series of data science education projects in the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) (work in progress). Using these projects and cheat sheets as reference materials benefity me as an aspiring data scientist, and perhaps they will benefit you too. A sample of some of the projects are seen here:
+We function in a data-centric economy; being data literate and presenting uncovred patterns in intuitively digestible formats has become a valuable asset for improving certainty and business growth.
+
+To familiarize yourself with a variety of common data science tools, from data wrangling and visualizations to API calls and machine learning, and more, explore this series of data science education projects in the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) (work in progress). Using these projects and cheat sheets as reference materials benefity me as an aspiring data scientist, and perhaps they will benefit you too. A sample of some of the projects are seen here:
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
