@@ -15,7 +15,7 @@ To familiarize yourself with a variety of common data science tools, from data w
 | [Excel VBA - Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/tree/main) | Excel VBA |
 | [Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis/tree/main) | Python |
 | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) | Python, Pandas, Jupyter Notebook |
-| [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) |
+| [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Pthron, Jupyter Notebook, Matplotlib, SciPy |
 
 
 - **Traffic Incident Visualization:** At the Center for Transportation Research, I utilized R, ggplot, and Leaflet to visualize traffic incident locations, enabling data-driven decisions for transportation improvements.
