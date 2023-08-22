@@ -12,6 +12,7 @@ To familiarize yourself with a variety of common data science tools, from data w
 |[Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
 | [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | EJavaScript, HTML, JSON |
 | [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) | Excel |
+| [Excel VBA - Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/tree/main) | Excel VBA |
 
 
 - **Traffic Incident Visualization:** At the Center for Transportation Research, I utilized R, ggplot, and Leaflet to visualize traffic incident locations, enabling data-driven decisions for transportation improvements.
