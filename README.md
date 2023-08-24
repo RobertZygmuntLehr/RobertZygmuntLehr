@@ -1,7 +1,7 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
 We function in a data-centric economy; being data literate and presenting uncovered patterns in intuitively digestible formats has become a valuable asset for improving certainty and business growth.
-__WHAT SETS ME APART!__
+__WHAT SETS ME APART!__: Well versed in many different fields. fascinating, innovative, live for pursuing new things, etc.
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
