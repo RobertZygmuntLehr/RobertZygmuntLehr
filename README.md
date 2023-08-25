@@ -1,7 +1,7 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-We function in a data-driven economy; I consider data literacy as foundational for navigating our data-centric landscape.
-- My goal is to illuminate patterns for confident decisions and business growth.
+### We function in a data-driven economy; I consider data literacy as foundational for navigating our data-centric landscape.
+- My goal is to illuminate patterns for confident decisions and business growth. Explore my [__Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) for project examples:
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
@@ -16,10 +16,12 @@ We function in a data-driven economy; I consider data literacy as foundational f
 | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) | Python, Pandas, Jupyter Notebook |
 | [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Pthron, Jupyter Notebook, Matplotlib, SciPy |
 
+### Reference Zip LearnerSheets
+- a.k.a Cheat Sheets
 
-- **Traffic Incident Visualization:** At the Center for Transportation Research, I utilized R, ggplot, and Leaflet to visualize traffic incident locations, enabling data-driven decisions for transportation improvements.
-
-To familiarize yourself with a variety of common data science tools, from data wrangling and visualizations to API calls and machine learning, and more, explore this series of data science education projects in the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) (work in progress). Using these projects and cheat sheets as reference materials continue to benefit me as an aspiring data scientist. A sample of the [Data Science Portfolio](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main):
+| Cheat Sheet | Source |
+|-------------|--------|
+|  [Python3 Basics](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) | https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf |
 
 If you have any questions or would like to connect, don't hesitate to reach out. Let's work together to make data-driven decisions and shape a better future!
 
