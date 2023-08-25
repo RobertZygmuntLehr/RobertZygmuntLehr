@@ -1,6 +1,7 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-We function in a data-driven economy; I consider data literacy as foundational to navigating our data-centric landscape, so my goal is to illuminate patterns for confident decisions and business growth.
+We function in a data-driven economy; I consider data literacy as foundational for navigating our data-centric landscape.
+- My goal is to illuminate patterns for confident decisions and business growth.
 
 <h3 align="left"> Data Science Portfolio Sample Projects</h3>
 
