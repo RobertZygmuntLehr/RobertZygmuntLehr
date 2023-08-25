@@ -16,8 +16,8 @@
 | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) | Python, Pandas, Jupyter Notebook |
 | [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Pthron, Jupyter Notebook, Matplotlib, SciPy |
 
-### Reference Zip LearnerSheets
-- a.k.a Cheat Sheets
+### Reference Zip Learner Sheets
+- a.k.a *Cheat Sheets*
 
 | Cheat Sheet | Source |
 |-------------|--------|
