@@ -23,7 +23,7 @@
 |-------------|--------|
 |  [Python3 Basics](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) | https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf |
 
-If you have any questions or would like to connect, don't hesitate to reach out. Let's work together to make data-driven decisions and shape a better future!
+If you have any questions or would like to connect, don't hesitate to reach out through email [robert.z.lehr@gmail.com]. Let's work together to make data-driven decisions and shape a better future!
 
 <h3 align="left">Languages and Tools:</h3>
 
