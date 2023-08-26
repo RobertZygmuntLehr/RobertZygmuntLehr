@@ -7,7 +7,7 @@
 
 | Project  | Tools & Skills |
 | ------------- | ------------- |
-| [Visualizing - 2021 Texas Great Freeze Imapct on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
+| [Visualizing - 2021 Texas Great Freeze Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
 |[Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
 | [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | EJavaScript, HTML, JSON |
 | [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) | Excel |
