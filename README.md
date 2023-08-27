@@ -14,7 +14,10 @@
 | [Excel VBA - Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/tree/main) | Excel VBA |
 | [Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis/tree/main) | Python |
 | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) | Python, Pandas, Jupyter Notebook |
-| [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Pthron, Jupyter Notebook, Matplotlib, SciPy |
+| [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Python, Jupyter Notebook, Matplotlib, SciPy |
+| [Traffic-Crime Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) | Python, Jupyter Notebook, API, Numpy |
+| [SQL Analysis fo Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) | PSQL, CSV, QuickDBD, PgAdmin4, VSCode|
+| [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | BeautifulSoup4, Splinter, Pandas, Python, Matplotlib, Jupyter Notebook, csv |
 
 ### Reference Zip Learner Sheets
 - a.k.a *Cheat Sheets*
