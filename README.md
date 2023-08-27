@@ -1,34 +1,15 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
 ### In today's data-driven economy, I see being data literate as requisite for effectively understanding and constructing meaningful narratives with the data we're given.
-- My goal is to illuminate patterns for confident decisions and business growth. Explore my [__Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) for project examples:
-
-<h3 align="left"> Data Science Education Portfolio </h3>
-
-| Project  | Tools & Skills |
-| ------------- | ------------- |
-| [Extreme Weather Impacts Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
-| [Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
-| [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | EJavaScript, HTML, JSON |
-| [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) | Excel |
-| [Excel VBA - Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/tree/main) | Excel VBA |
-| [Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis/tree/main) | Python |
-| [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) | Python, Pandas, Jupyter Notebook |
-| [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Python, Jupyter Notebook, Matplotlib, SciPy |
-| [Traffic-Crime Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) | Python, Jupyter Notebook, API, Numpy |
-| [SQL Analysis fo Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) | PSQL, CSV, QuickDBD, PgAdmin4, VSCode|
-| [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | Webscraping, Pandas, Matplotlib, Jupyter Notebook|
-| [Nonprofit Funding Success Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) | Neural Networks, Jupyter Notebook |
-| [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) | Nosql, MongoDB, Python, Pymongo |
-| [ETL Pipelines for Crowdfunding Data](https://github.com/robert-z-lehr/ETL-Pipeline-for-Crowdfunding-Data) | ETL, Excel, PSQL, Jupyter Noktebook, Numpy |
-| [Cryptocurrencies Clustering Model](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) | Machine learning, Python, Jupyter Notebook |
-| [Credit Risk Classification](https://github.com/robert-z-lehr/Credit-Risk-Classification) | Machine learning, Python, Jupyter Notebook |
-| [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | Javascript, CSS, HTML, GitHub Pages |
-
-
-
+- I aim to uncover patterns that guide teams toward well-informed decisions and contribute to their objectives and growth.
+- I have experience with the following languages and tools:
+| Python | Pandas | Scikit-Learn | JavaScript | PSQL | Tableau | R | Excel VBA |
+|--------|--------|--------------|------------|------|---------|---|-----------|
+| <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | <a href="https://www.tableau.com/trial/tableau-software?d=7013y000002RQ7hAAG&nc=7013y000002RQCaAAO&cq_cmp=8846800995&cq_net=g&cq_plac=&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfyzThUThFi8RL13Ln24ogX6jcxzquerug9J8cqGwEjBOKp98SU4pSMaAroZEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/robert-z-lehr/Module_18_Challenge/blob/main/tableau-icon-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a> | <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> | <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tankalxat34/vba-ip-validation/readme_content/icon_excel.svg" alt="Excel VBA" width="40" height="40"/> </a> |
+- Peruse my [__Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) to see examples.
 
 ### Reference Zip Learner Sheets
+- Refer to the [Reference Zip Learner] repository to access cheat sheets and reference materials.
 - a.k.a *Cheat Sheets*
 
 | Cheat Sheets | Source |
@@ -38,7 +19,3 @@
 If you have any questions or would like to connect, don't hesitate to reach out through email [robert.z.lehr@gmail.com]. Let's work together to make data-driven decisions and shape a better future!
 
 <h3 align="left">Languages and Tools:</h3>
-
-| Python | Pandas | Scikit-Learn | JavaScript | PSQL | Tableau | R | Excel VBA |
-|--------|--------|--------------|------------|------|---------|---|-----------|
-| <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | <a href="https://www.tableau.com/trial/tableau-software?d=7013y000002RQ7hAAG&nc=7013y000002RQCaAAO&cq_cmp=8846800995&cq_net=g&cq_plac=&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfyzThUThFi8RL13Ln24ogX6jcxzquerug9J8cqGwEjBOKp98SU4pSMaAroZEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/robert-z-lehr/Module_18_Challenge/blob/main/tableau-icon-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a> | <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> | <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tankalxat34/vba-ip-validation/readme_content/icon_excel.svg" alt="Excel VBA" width="40" height="40"/> </a> |
