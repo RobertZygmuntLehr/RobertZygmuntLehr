@@ -22,7 +22,7 @@
 ### Reference Zip Learner Sheets
 - a.k.a *Cheat Sheets*
 
-| Cheat Sheet | Source |
+| Cheat Sheets | Source |
 |-------------|--------|
 |  [Python3 Basics](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) | https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf |
 
