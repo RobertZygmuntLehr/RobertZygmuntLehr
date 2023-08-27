@@ -12,7 +12,7 @@
 ### Feeling Stuck?
 - Use these reference (cheat) sheets available in the [Reference Zip Learner] repository.
 
-h3 align="left">Cheat Sheets</h3>
+<h3 align="left">Cheat Sheets</h3>
 
 | Python | Pandas | Scikit-Learn | JavaScript | PSQL | Tableau | R | Excel VBA |
 | ------ | ------ | ------------ | ---------- | ---- | ------- | - | --------- |
