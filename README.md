@@ -22,7 +22,7 @@
 | [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) | Nosql, MongoDB, Python, Pymongo |
 | [ETL Pipelines for Crowdfunding Data](https://github.com/robert-z-lehr/ETL-Pipeline-for-Crowdfunding-Data) | ETL, Excel, PSQL, Jupyter Noktebook, Numpy |
 | [Cryptocurrencies Clustering Model](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) | Machine learning, Python, Jupyter Notebook |
-| [Credit Risk Classification\(https://github.com/robert-z-lehr/Credit-Risk-Classification) | Machine learning, Python, Jupyter Notebook |
+| [Credit Risk Classification](https://github.com/robert-z-lehr/Credit-Risk-Classification) | Machine learning, Python, Jupyter Notebook |
 | [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | Javascript, CSS, HTML, GitHub Pages |
 
 
