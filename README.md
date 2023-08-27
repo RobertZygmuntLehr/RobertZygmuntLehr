@@ -1,6 +1,6 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-### We function in a data-driven economy; I consider data literacy as foundational for navigating our data-centric landscape.
+### In today's data-driven economy, possessing data literacy is crucial for effectively understanding data and constructing meaningful narratives with it.
 - My goal is to illuminate patterns for confident decisions and business growth. Explore my [__Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) for project examples:
 
 <h3 align="left"> Data Science Education Portfolio </h3>
