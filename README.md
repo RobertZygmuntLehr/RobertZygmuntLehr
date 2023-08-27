@@ -19,6 +19,8 @@
 | [SQL Analysis fo Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) | PSQL, CSV, QuickDBD, PgAdmin4, VSCode|
 | [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | BeautifulSoup4, Splinter, Pandas, Python, Matplotlib, Jupyter Notebook|
 | [Nonprofit Funding Success Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) | Neural Networks, Scikit-learn, Keras, Tensorflow, Jupyter Notebook |
+| [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) | Nosql, MongoDB, Python, Pymongo |
+| [ETL Pipelines for Crowdfunding Data](https://github.com/robert-z-lehr/ETL-Pipeline-for-Crowdfunding-Data) | ETL, Excel, PSQL, Jupyter Noktebook, Numpy |
 
 
 
