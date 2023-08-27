@@ -1,6 +1,6 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-### In today's data-driven economy, possessing data literacy is crucial for effectively understanding data and constructing meaningful narratives with it.
+### In today's data-driven economy, I zee being data literate as requisite for effectively understanding and constructing meaningful narratives with the data we're given.
 - My goal is to illuminate patterns for confident decisions and business growth. Explore my [__Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main) for project examples:
 
 <h3 align="left"> Data Science Education Portfolio </h3>
