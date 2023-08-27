@@ -13,7 +13,7 @@
 
 | Language / Tool | Cheat Sheet |
 | --------------- | ----------- |
-| Python | [Python3 Basics](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) |
+| Python | [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) |
 | Pandas | [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
 | Scikit-Learn | [Scikit-Learn Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) |
 | JavaScript | [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/) |
