@@ -8,7 +8,7 @@
 | Project  | Tools & Skills |
 | ------------- | ------------- |
 | [Visualizing - 2021 Texas Great Freeze Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)   | Python, Jupyter Notebook, API|
-|[Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
+| [Live Geospatial Data Visualization](https://github.com/robert-z-lehr/Live-Geospatial-Data-Visualization)  |JavaScript, HTML, CSS|
 | [Biodiversity Exploration Dashboard](https://github.com/robert-z-lehr/Biodiversity-Exploration-Dashboard) | EJavaScript, HTML, JSON |
 | [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) | Excel |
 | [Excel VBA - Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/tree/main) | Excel VBA |
@@ -18,6 +18,9 @@
 | [Traffic-Crime Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) | Python, Jupyter Notebook, API, Numpy |
 | [SQL Analysis fo Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) | PSQL, CSV, QuickDBD, PgAdmin4, VSCode|
 | [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | BeautifulSoup4, Splinter, Pandas, Python, Matplotlib, Jupyter Notebook|
+| [Nonprofit Funding Success Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) | Neural Networks, Scikit-learn, Keras, Tensorflow, Jupyter Notebook |
+
+
 
 ### Reference Zip Learner Sheets
 - a.k.a *Cheat Sheets*
