@@ -17,7 +17,7 @@
 | [Visualizing Cancer Treatment in Mice](https://github.com/robert-z-lehr/Visualizing-Cancer-Treatment-Study-Results-with-Matplotlib/tree/main) | Python, Jupyter Notebook, Matplotlib, SciPy |
 | [Traffic-Crime Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) | Python, Jupyter Notebook, API, Numpy |
 | [SQL Analysis fo Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) | PSQL, CSV, QuickDBD, PgAdmin4, VSCode|
-| [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | BeautifulSoup4, Splinter, Pandas, Python, Matplotlib, Jupyter Notebook|
+| [Webscraping Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) | Webscraping, Pandas, Python, Matplotlib, Jupyter Notebook|
 | [Nonprofit Funding Success Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) | Neural Networks, Jupyter Notebook |
 | [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) | Nosql, MongoDB, Python, Pymongo |
 | [ETL Pipelines for Crowdfunding Data](https://github.com/robert-z-lehr/ETL-Pipeline-for-Crowdfunding-Data) | ETL, Excel, PSQL, Jupyter Noktebook, Numpy |
