@@ -11,7 +11,7 @@
 
 <h3 align="left">Feeling Stuck?</h3>
 
-[Reference/Cheat Sheets](https://github.com/robert-z-lehr/Reference-Zip-Learning/tree/main)
+### [Reference/Cheat Sheets](https://github.com/robert-z-lehr/Reference-Zip-Learning/tree/main)
 
 | Language/Tool | Python | Pandas | Scikit-Learn | JavaScript | PSQL | Tableau | R | Excel VBA |
 | --------------- | ------- | ------ | ------------ | ---------- | ---- | ------- | - | --------- |
