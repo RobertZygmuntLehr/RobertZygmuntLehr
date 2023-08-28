@@ -1,7 +1,7 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
 ## In today's data-driven economy, I see being data literate as requisite for effectively understanding and constructing meaningful narratives with the data we're given.
-- I aim to uncover patterns that guide teams toward well-informed decisions and contribute to their objectives and growth. Explore my projects here: [__Data Science Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
+- I aim to uncover patterns that guide teams toward well-informed decisions and contribute to their objectives and growth. Explore my repositories or search by topic in the [__Data Science Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
 
 <h3 align="left">My Languages and Tools:</h3>
 
