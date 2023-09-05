@@ -3,7 +3,7 @@
 ## Fresh from successfully completing an intensive [Data Analysis and Visualization BootCamp](https://techbootcamps.utexas.edu/data/), I am bringing my skills to help your organization and you achieve your goals.
 
 ## In today's data-driven economy, I see being data literate as requisite for effectively understanding and constructing meaningful data-driven narratives.
-- Across all data-driven projects, regardless of field, what I prioritize most is clarity, simplicity, and efficiency. Once achieved, my goals shift to adding adding inspiring and creative content. Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
+- Across all data-driven projects, regardless of field, what I prioritize most is clarity, simplicity, and efficiency. Once achieved, my goals shift to adding inspiring and creative content. Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
 
 <h3 align="left">My Languages and Tools:</h3>
 
