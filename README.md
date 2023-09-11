@@ -29,8 +29,8 @@
   
   <!-- Row 3: Title -->
   <tr>
-    <th>More Tools 1</th>
-    <th>More Tools 2</th>
+    <th>More Tools</th>
+    <th>More Tools</th>
     <!-- Add other titles here -->
   </tr>
   
