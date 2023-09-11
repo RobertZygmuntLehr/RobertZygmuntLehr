@@ -11,20 +11,13 @@
 | ------ | ------ | ------ | ------------ | ---------- | ---- | ------- | - | --------- |
 | <a href="https://github.com/robert-z-lehr/QR-Code-Generator" target="_blank" rel="noreferrer"> <img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="python" width="40" height="40"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> | <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> | <a href="https://www.tableau.com/trial/tableau-software?d=7013y000002RQ7hAAG&nc=7013y000002RQCaAAO&cq_cmp=8846800995&cq_net=g&cq_plac=&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfyzThUThFi8RL13Ln24ogX6jcxzquerug9J8cqGwEjBOKp98SU4pSMaAroZEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/robert-z-lehr/Module_18_Challenge/blob/main/tableau-icon-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a> | <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> | <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tankalxat34/vba-ip-validation/readme_content/icon_excel.svg" alt="Excel VBA" width="40" height="40"/> </a> |
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Projects:</h3>
 
 <table>
   <!-- Row 1: Title -->
   <tr>
     <th>QR Code Generator</th>
     <th>The Eisenhower Matrix</th>
-    <th>Pandas</th>
-    <th>Scikit-Learn</th>
-    <th>JavaScript</th>
-    <th>PSQL</th>
-    <th>Tableau</th>
-    <th>R</th>
-    <th>Excel VBA</th>
   </tr>
   
   <!-- Row 2: Images -->
@@ -43,8 +36,8 @@
   
   <!-- Row 4: Images -->
   <tr>
-    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image1.png" alt="More Tools 1"/></a></td>
-    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image2.png" alt="More Tools 2"/></a></td>
+    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image1.png" alt="Upcoming Tool"/></a></td>
+    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image2.png" alt="Upcoming Tool"/></a></td>
     <!-- Add other cells with images here -->
   </tr>
 </table>
