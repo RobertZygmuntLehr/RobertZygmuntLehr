@@ -17,7 +17,7 @@
   <!-- Row 1: Title -->
   <tr>
     <th>QR Code Generator</th>
-    <th>Python</th>
+    <th>The Eisenhower Matrix</th>
     <th>Pandas</th>
     <th>Scikit-Learn</th>
     <th>JavaScript</th>
@@ -30,7 +30,7 @@
   <!-- Row 2: Images -->
   <tr>
     <td><a href="https://github.com/robert-z-lehr/QR-Code-Generator" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="QR Code Generator"/></a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></a></td>
+    <td><a href="https://robert-z-lehr.github.io/The-Eisenhower-Matrix/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></a></td>
     <!-- Add other cells with images here -->
   </tr>
   
