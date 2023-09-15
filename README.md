@@ -1,6 +1,6 @@
 <h1 align="left">Hi, 👋 I'm Robert Lehr</h1> 
 
-## In today's data-driven economy, I see being data literate as requisite for effectively understanding and constructing meaningful data-driven narratives.
+## In today's recently disrupted data-driven economy, with AI tools and packages coming from every angle, I am building famliarity with the data literacy, data management, machine learning, analytical, and visualization tools I find important for solving problems and generating meaningful data-driven narratives.
 - Across all data-driven projects, regardless of field, what I prioritize most is clarity, simplicity, and efficiency. Once achieved, my goals shift to adding inspiring and creative content. Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
 
 <h3 align="left">My Languages and Tools:</h3>
