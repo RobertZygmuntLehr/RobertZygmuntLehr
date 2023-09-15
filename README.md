@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! 👋 I'm Robert Lehr</h1> 
 
-## In today's rapidly changing data-driven landscape, I'm honing my skills in data literacy, management, machine learning, analytics, and visualization tools to tackle complex challenges and craft compelling data-driven stories.
-- Across all data-driven projects, regardless of field, what I prioritize most is clarity, simplicity, and efficiency. Once achieved, my goals shift to adding inspiring and creative content. Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
+## In today's rapidly changing data-driven landscape, I'm honing my skills in data literacy, management, machine learning, analytics, and visualization tools to tackle the complex challenges we face and craft compelling data-driven stories. I prioritize clarity, simplicity, and efficiency.
+- Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data_Science_Portfolio/tree/main)
 
 <h3 align="left">My Languages and Tools:</h3>
 
