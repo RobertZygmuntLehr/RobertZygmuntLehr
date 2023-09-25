@@ -1,8 +1,8 @@
 <h1 align="left">Hey there! 👋 I'm Robert Lehr</h1> 
 
 ## A Reference GitHub 
-In our data-driven economy, use this GitHub as a reference of relevant projects and use cases for your various data science projects.
-- Explore my [__repositories__](https://github.com/robert-z-lehr?tab=repositories) or search by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
+In our data-driven economy, use this growing account as a reference of relevant projects and use cases for your various data science projects.
+- Explore by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
 
 <h3 align="left">Projects:</h3>
 
