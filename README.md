@@ -1,5 +1,5 @@
 <h1 align="left">Hey there! 👋 I'm Robert Lehr</h1> 
-In our data-driven economy, I am building a reference portfolio and a precursor to TWSH (Tools-Widgets-Services-Hub).
+In our data-driven economy, I am building a reference portfolio and a precursor to TWSH (q Tools-Widgets-Services-Hub).
 
 # My Projects
 
