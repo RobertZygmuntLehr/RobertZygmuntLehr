@@ -1,5 +1,9 @@
-<!-- # Hi there! 👋 I'm Robert Lehr
-In our data-driven economy, I am building a [reference portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), my own data science cheet sheet hub, and a precursor to [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (a Tools-Widgets-Services-Hub).
+# Robert Lehr 👋
+
+---
+
+## About Me
+In this era of data-driven decision-making, I'm working on both a [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), jumpstarted by a [Data Analysis and Visualization BootCamp](https://techbootcamps.utexas.edu/data/), to assist future projects and a precursor for a comprehensive utility hub, [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (Tools-Widgets-Services-Hub).
 
 # Want to Connect?
 Have questions, ideas, feedback? Click the button below to share your thoughts on my GitHub Pages form.
@@ -71,11 +75,8 @@ LinkedIn Image Source: <a href="https://www.freepnglogos.com/images/linkedin-log
 Gmail Image Source: <a href="https://www.freepnglogos.com/images/logo-gmail-9990.html">Get it on logo gmail png contact machine learning phd student reasoning and</a>
 -->
 
-<!--
 Let's make data-driven decisions together!
 
-
--->
 # Robert Lehr 👋
 
 ---
