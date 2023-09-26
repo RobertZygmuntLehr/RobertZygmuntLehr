@@ -1,5 +1,5 @@
 <h1 align="left">Hey there! 👋 I'm Robert Lehr</h1> 
-In our data-driven economy, building a portfolio of reference projects for me and you to use. Explore my repositories or find relevant topics by project here:
+In our data-driven economy, I am building a reference portfolio and a precursor to TWSH (Tools-Widgets-Services-Hub).
 
 # My Projects
 
@@ -14,13 +14,13 @@ In our data-driven economy, building a portfolio of reference projects for me an
 | <strong>Machine Learning:</strong><br><ul><li><span style="opacity: 0.6;">Unsupervised Learning</span></li><li><span style="opacity: 0.6;">Supervised Learning</span></li><li><span style="opacity: 0.6;">Neural Networks</span></li></ul> | <ul><li>[Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model)https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model</li><li>[Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model)</li></ul>|
 
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">TWSH Precursor</h3>
 
 <table>
   <!-- Row 1: Title -->
   <tr>
-    <th>QR Code Generator</th>
-    <th>The Eisenhower Matrix</th>
+    <th>QR Code Generator!</th>
+    <th>Productivity Matrix Tool</th>
   </tr>
   
   <!-- Row 2: Images -->
