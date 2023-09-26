@@ -6,10 +6,6 @@ Have questions, ideas, feedback? Click the button below to share your thoughts o
 
 [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
 
-
-# Want to Connect?
-- Have questions, ideas, feedback?
-Reach out to me through LinkedIn or email!:
 | LinkedIn | Email |
 | -------- | ----- |
 | [LinkedIn](https://www.linkedin.com/in/robert-z-lehr/) | [robert.z.lehr@gmail.com](mailto:robert.z.lehr@gmail.com) |
