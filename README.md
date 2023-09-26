@@ -3,13 +3,7 @@ In our data-driven economy, I am building a [reference portfolio](https://github
 
 # Want to Connect?
 Have questions, ideas, feedback? Click the button below to share your thoughts on my GitHub Pages form.
-
 [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
-
-<a href="https://robert-z-lehr.github.io/Feedback-Form/" target="_blank">
-  <button style="background-color: blue; color: white; font-size: 20px; padding: 10px 20px;">Share Your Thoughts</button>
-</a>
-
 
 | LinkedIn | Email |
 | -------- | ----- |
