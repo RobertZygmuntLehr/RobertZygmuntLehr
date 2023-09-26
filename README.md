@@ -5,27 +5,41 @@
 ## About Me
 In this era of data-driven decision-making, I'm working on both a [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), jumpstarted by a [Data Analysis and Visualization BootCamp](https://techbootcamps.utexas.edu/data/), to assist future projects and a precursor for a comprehensive utility hub, [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (Tools-Widgets-Services-Hub).
 
-# Want to Connect?
-Have questions, ideas, feedback? Click the button below to share your thoughts on my GitHub Pages form.
+## Connect With Me
+
+For questions, ideas, or feedback, feel free to reach out:
 
 [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
 
-| LinkedIn | Email |
-| -------- | ----- |
-| [LinkedIn](https://www.linkedin.com/in/robert-z-lehr/) | [robert.z.lehr@gmail.com](mailto:robert.z.lehr@gmail.com) |
+- **LinkedIn**: [Robert Lehr](https://www.linkedin.com/in/robert-z-lehr/)
+- **Email**: [robert.z.lehr@gmail.com](mailto:robert.z.lehr@gmail.com)
 
-# [The Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
-Explore my repositories by category here:
+---
 
-|     Skills    |                         Projects                         |
-|---------------|----------------------------------------------------------|
-| <strong>Excel Functions:</strong><br><ul><li><span style="opacity: 0.6;">Pivot Tables</span></li><li><span style="opacity: 0.6;">VBA Scripting</span></li></ul> | <ul><li>[VBA Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation)</li><li>[Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends)</li></ul>|
-| <strong>Fundamental Statistics:</strong><br><ul><li><span style="opacity: 0.6;">Modeling</span></li><li><span style="opacity: 0.6;">Forecasting</span></li></ul> | <ul><li>[Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis)</li><li>[Exploring School Metric in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas)</li></ul>|
-| <strong>Python Programming:</strong><br><ul><li><span style="opacity: 0.6;">Python 3</span></li><li><span style="opacity: 0.6;">Numpy</span></li><li><span style="opacity: 0.6;">Pandas</span></li><li><span style="opacity: 0.6;">Matplotlib</span></li><li><span style="opacity: 0.6;">API Interactions</span></li></ul> | <ul><li>[Extreme Weather Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)</li><li>[Traffic-Crime-Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations)</li></ul>|
-| <strong>Databases:</strong><br><ul><li><span style="opacity: 0.6;">PostgreSQL</span></li><li><span style="opacity: 0.6;">Mongo DB</span></li><li><span style="opacity: 0.6;">ETL</span></li></ul> | <ul><li>[Exploring Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records)</li><li>[Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis)</li></ul>|
-| <strong>Front End Web Visualization:</strong><br><ul><li><span style="opacity: 0.6;">HTML</span></li><li><span style="opacity: 0.6;">CSS</span></li><li><span style="opacity: 0.6;">Bootstrap</span></li><li><span style="opacity: 0.6;">Dashboarding</span></li><li><span style="opacity: 0.6;">Javascript Charting</span></li><li><span style="opacity: 0.6;">Geomapping with Leaflet.js</span></li><li><span style="opacity: 0.6;">Webscraping</ul> | <ul><li>[Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News)</li><li>[Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization)</li><li>[QR Code Generator](https://robert-z-lehr.github.io/QR-Code-Generator/)</li><li>[Eisenhower Matrix](https://robert-z-lehr.github.io/The-Eisenhower-Matrix/)</li></ul>|
-| <strong>Business Intelligence Software:</strong><br><ul><li><span style="opacity: 0.6;">Tableau</span></li></ul> | <ul><li>[NYC-Citi-Bike-Insights](https://github.com/robert-z-lehr/NYC-Citi-Bike-Insights)</li></ul>| 
-| <strong>Machine Learning:</strong><br><ul><li><span style="opacity: 0.6;">Unsupervised Learning</span></li><li><span style="opacity: 0.6;">Supervised Learning</span></li><li><span style="opacity: 0.6;">Neural Networks</span></li></ul> | <ul><li>[Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model)https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model</li><li>[Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model)</li></ul>|
+## Portfolio & Projects
+
+### [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
+
+#### Skills & Projects
+
+| Skills                  | Projects |
+|-------------------------|----------|
+| **Excel Functions**     | [VBA Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation) |
+|                         | [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) |
+| **Fundamental Statistics** | [Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis) |
+|                         | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) |
+| **Python Programming**  | [Extreme Weather Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices) |
+|                         | [Traffic-Crime-Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) |
+| **Databases**           | [Exploring Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) |
+|                         | [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) |
+| **Front End Web Visualization** | [Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) |
+|                         | [Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization) |
+| **Business Intelligence Software** | [NYC-Citi-Bike-Insights](https://github.com/robert-z-lehr/NYC-Citi-Bike-Insights) |
+| **Machine Learning**    | [Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) |
+|                         | [Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) |
+
+---
+
 
 
 # [TWSH Precursor](https://github.com/robert-z-lehr/TWSH/tree/main)
