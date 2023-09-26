@@ -26,8 +26,8 @@ Explore my repositories by category here:
   
   <!-- Row 2: Images -->
   <tr>
-    <td><a href="https://robert-z-lehr.github.io/QR-Code-Generator/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="QR Code Generator" width="300"/></a></td>
-    <td><a href="https://robert-z-lehr.github.io/The-Eisenhower-Matrix/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/The-Eisenhower-Matrix/raw/main/The-Eisenhower-Matrix.png" alt="Python" width="450"/></a></td>
+    <td><a href="https://robert-z-lehr.github.io/QR-Code-Generator/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="QR Code Generator" width="280"/></a></td>
+    <td><a href="https://robert-z-lehr.github.io/The-Eisenhower-Matrix/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/The-Eisenhower-Matrix/raw/main/The-Eisenhower-Matrix.png" alt="Python" width="500"/></a></td>
   </tr>
   
   <!-- Row 3: Title -->
