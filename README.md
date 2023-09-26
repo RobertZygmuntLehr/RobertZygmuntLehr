@@ -60,7 +60,9 @@ In our data-driven economy, I am building a [reference portfolio](https://github
 
 # Questions & Want to Conncet?
 Reach out to me through LinkedIn or email!:
-[robert.z.lehr@gmail.com].
+| LinkedIn | Email |
+| -------- | ----- |
+| [LinkedIn](https://www.linkedin.com/in/robert-z-lehr/) | [Email](robert.z.lehr@gmail.com) |
 Let's make data-driven decisions together!
 
 
