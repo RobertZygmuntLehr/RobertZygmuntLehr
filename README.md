@@ -63,7 +63,7 @@ Explore my repositories by category here:
 Reach out to me through LinkedIn or email!:
 | LinkedIn | Email |
 | -------- | ----- |
-| <a href="https://www.linkedin.com/in/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/linkedin-logo-png-1840.png" alt="Python"/></a> | <a href="robert.z.lehr@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/logo-gmail-9990.png" alt="Python"/></a> |
+| <a href="https://www.linkedin.com/in/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/linkedin-logo-png-1840.png" alt="Python"/></a> | <a href="mailto:robert.z.lehr@gmail.com"></a> |
 
 <!--
 Attribution:
