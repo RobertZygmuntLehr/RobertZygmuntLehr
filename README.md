@@ -14,7 +14,7 @@ In our data-driven economy, I am building a reference portfolio and a precursor 
 | <strong>Machine Learning:</strong><br><ul><li><span style="opacity: 0.6;">Unsupervised Learning</span></li><li><span style="opacity: 0.6;">Supervised Learning</span></li><li><span style="opacity: 0.6;">Neural Networks</span></li></ul> | <ul><li>[Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model)https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model</li><li>[Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model)</li></ul>|
 
 
-<h3 align="left">[TWSH Precursor](https://github.com/robert-z-lehr/TWSH/tree/main)</h3>
+### [TWSH Precursor](https://github.com/robert-z-lehr/TWSH/tree/main)
 
 <table>
   <!-- Row 1: Title -->
