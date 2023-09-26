@@ -63,11 +63,13 @@ Explore my repositories by category here:
 Reach out to me through LinkedIn or email!:
 | LinkedIn | Email |
 | -------- | ----- |
-| <td><a href="https://www.linkedin.com/in/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/linkedin-logo-png-1840.png" alt="Python"/></a></td> | [Email](robert.z.lehr@gmail.com) | <td><a href="https://www.github.com/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/logo-gmail-9990.png" alt="Python"/></a></td> | [Email](robert.z.lehr@gmail.com) |
+| <td><a href="https://www.linkedin.com/in/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/linkedin-logo-png-1840.png" alt="Python"/></a></td> | [Email](robert.z.lehr@gmail.com) | <td><a href="robert.z.lehr@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/logo-gmail-9990.png" alt="Python"/></a></td> |
 
+<!--
 Attribution:
-<a href="https://www.freepnglogos.com/images/linkedin-logo-png-1840.html">Get it on linkedin logo transparent png</a>
-<a href="https://www.freepnglogos.com/images/logo-gmail-9990.html">Get it on logo gmail png contact machine learning phd student reasoning and</a>
+LinkedIn Image Source: <a href="https://www.freepnglogos.com/images/linkedin-logo-png-1840.html">Get it on linkedin logo transparent png</a>
+Gmail Image Source: <a href="https://www.freepnglogos.com/images/logo-gmail-9990.html">Get it on logo gmail png contact machine learning phd student reasoning and</a>
+-->
 
 Let's make data-driven decisions together!
 
