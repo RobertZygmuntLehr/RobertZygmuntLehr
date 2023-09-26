@@ -26,23 +26,20 @@ Explore my repositories by category here:
   
   <!-- Row 2: Images -->
   <tr>
-    <td><a href="https://robert-z-lehr.github.io/QR-Code-Generator/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="QR Code Generator"/></a></td>
-    <td><a href="https://robert-z-lehr.github.io/The-Eisenhower-Matrix/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/The-Eisenhower-Matrix/raw/main/The-Eisenhower-Matrix.png" alt="Python"/></a></td>
-    <!-- Add other cells with images here -->
+    <td><a href="https://robert-z-lehr.github.io/QR-Code-Generator/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png" alt="QR Code Generator" width="400"/></a></td>
+    <td><a href="https://robert-z-lehr.github.io/The-Eisenhower-Matrix/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/The-Eisenhower-Matrix/raw/main/The-Eisenhower-Matrix.png" alt="Python" width="200"/></a></td>
   </tr>
   
   <!-- Row 3: Title -->
   <tr>
     <th>Upcoming TWSH content</th>
-    <th>Ucpoming TWSH content</th>
-    <!-- Add other titles here -->
+    <th>Upcoming TWSH content</th>
   </tr>
   
   <!-- Row 4: Images -->
   <tr>
-    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image1.png" alt="Upcoming Tool"/></a></td>
-    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image2.png" alt="Upcoming Tool"/></a></td>
-    <!-- Add other cells with images here -->
+    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image1.png" alt="Upcoming Tool" width="400"/></a></td>
+    <td><a href="https://example.com" target="_blank" rel="noreferrer"><img src="https://example.com/image2.png" alt="Upcoming Tool" width="200"/></a></td>
   </tr>
 </table>
 
