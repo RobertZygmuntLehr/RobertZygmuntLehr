@@ -3,6 +3,7 @@ In our data-driven economy, I am building a [reference portfolio](https://github
 
 # Want to Connect?
 Have questions, ideas, feedback? Click the button below to share your thoughts on my GitHub Pages form.
+
 [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
 
 | LinkedIn | Email |
