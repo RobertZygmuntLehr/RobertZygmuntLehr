@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Robert Lehr
+<!-- # Hi there! 👋 I'm Robert Lehr
 In our data-driven economy, I am building a [reference portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), my own data science cheet sheet hub, and a precursor to [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (a Tools-Widgets-Services-Hub).
 
 # Want to Connect?
@@ -71,6 +71,77 @@ LinkedIn Image Source: <a href="https://www.freepnglogos.com/images/linkedin-log
 Gmail Image Source: <a href="https://www.freepnglogos.com/images/logo-gmail-9990.html">Get it on logo gmail png contact machine learning phd student reasoning and</a>
 -->
 
+<!--
 Let's make data-driven decisions together!
 
+
+-->
+# Robert Lehr 👋
+
+---
+
+## About Me
+
+In the era of data-driven decision-making, I'm working on a [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio) to serve as a hub for data science cheat sheets and a precursor to [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (Tools-Widgets-Services-Hub).
+
+---
+
+## Connect With Me
+
+For questions, ideas, or feedback, feel free to reach out:
+
+[![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
+
+- **LinkedIn**: [Robert Lehr](https://www.linkedin.com/in/robert-z-lehr/)
+- **Email**: [robert.z.lehr@gmail.com](mailto:robert.z.lehr@gmail.com)
+
+---
+
+## Portfolio & Projects
+
+### [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
+
+#### Skills & Projects
+
+| Skills                  | Projects |
+|-------------------------|----------|
+| **Excel Functions**     | [VBA Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation) |
+|                         | [Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends) |
+| **Fundamental Statistics** | [Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis) |
+|                         | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) |
+| **Python Programming**  | [Extreme Weather Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices) |
+|                         | [Traffic-Crime-Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) |
+| **Databases**           | [Exploring Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) |
+|                         | [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) |
+| **Front End Web Visualization** | [Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) |
+|                         | [Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization) |
+| **Business Intelligence Software** | [NYC-Citi-Bike-Insights](https://github.com/robert-z-lehr/NYC-Citi-Bike-Insights) |
+| **Machine Learning**    | [Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) |
+|                         | [Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) |
+
+---
+
+## [TWSH Precursor](https://github.com/robert-z-lehr/TWSH/tree/main)
+
+![QR Code Generator](https://github.com/robert-z-lehr/QR-Code-Generator/raw/main/QRCodeGenerator.png)
+![Productivity Matrix Tool](https://github.com/robert-z-lehr/The-Eisenhower-Matrix/raw/main/The-Eisenhower-Matrix.png)
+
+---
+
+## [Reference/Cheat Sheets](https://github.com/robert-z-lehr/Reference-Zip-Learning/tree/main)
+
+| Language/Tool | Documentation | Cheat Sheet |
+|---------------|--------------|-------------|
+| Python        | [Python Documentation](https://www.python.org/doc/) | [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) |
+| Pandas        | [Pandas Documentation](https://pandas.pydata.org/docs/) | [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
+| Scikit-Learn  | [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html) | [Scikit-Learn Cheat Sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) |
+| JavaScript    | [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/) |
+| PSQL          | [PSQL Documentation](https://www.postgresql.org/docs/) | [PSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/) |
+| Tableau       | [Tableau Documentation](https://help.tableau.com/current/pro/desktop/en-us.htm) | [Tableau Cheat Sheet](https://help.tableau.com/current/pro/desktop/en-us/cheatsheet.htm) |
+| R             | [R Documentation](https://cran.r-project.org/manuals.html) | [R Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) |
+| Excel VBA     | [Excel VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) | [Excel VBA Cheat Sheet](https://www.excel-vba.com/excel-vba-contents.htm) |
+
+---
+
+Let's make data-driven decisions together!
 
