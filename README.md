@@ -65,6 +65,8 @@ Reach out to me through LinkedIn or email!:
 | -------- | ----- |
 | [LinkedIn](https://www.linkedin.com/in/robert-z-lehr/) | [Email](robert.z.lehr@gmail.com) |
 
+<td><a href="https://www.linkedin.com/in/robert-z-lehr/" target="_blank" rel="noreferrer"><img src="https://github.com/robert-z-lehr/robert-z-lehr/raw/main/linkedin-logo-png-1840.png" alt="Python"/></a></td>
+
 <a href="https://www.freepnglogos.com/images/linkedin-logo-png-1840.html">Get it on linkedin logo transparent png</a>
 
 Let's make data-driven decisions together!
