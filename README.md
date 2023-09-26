@@ -33,8 +33,8 @@ Explore my repositories by category here:
   
   <!-- Row 3: Title -->
   <tr>
-    <th>More Tools</th>
-    <th>More Tools</th>
+    <th>Upcoming TWSH content</th>
+    <th>Ucpoming TWSH content</th>
     <!-- Add other titles here -->
   </tr>
   
