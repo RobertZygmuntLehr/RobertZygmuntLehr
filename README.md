@@ -2,6 +2,7 @@
 In our data-driven economy, I am building a [reference portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), my own data science cheet sheet hub, and a precursor to [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (a Tools-Widgets-Services-Hub).
 
 # [The Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
+Explore my repositories by category here:
 
 |     Skills    |                         Projects                         |
 |---------------|----------------------------------------------------------|
