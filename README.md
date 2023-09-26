@@ -1,8 +1,18 @@
 <h1 align="left">Hey there! 👋 I'm Robert Lehr</h1> 
+In our data-driven economy, building a portfolio of reference projects for me and you to use. Explore my repositories or find relevant topics by project here:
 
-## A Reference GitHub 
-In our data-driven economy, use this growing account as a reference of relevant projects and use cases for your various data science projects.
-- Explore by topic in my [__Data Science Educational Portfolio__](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio)
+# My Projects
+
+| Skills      | Projects                                                   |
+|---------------|----------------------------------------------------------|
+| <strong>Excel Functions:</strong><br><ul><li><span style="opacity: 0.6;">Pivot Tables</span></li><li><span style="opacity: 0.6;">VBA Scripting</span></li></ul> | <ul><li>[VBA Automated Stock Evaluation](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation)</li><li>[Unveiling Crowdfunding Trends](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends)</li></ul>|
+| <strong>Fundamental Statistics:</strong><br><ul><li><span style="opacity: 0.6;">Modeling</span></li><li><span style="opacity: 0.6;">Forecasting</span></li></ul> | <ul><li>[Financial Records Analysis](https://github.com/robert-z-lehr/Financial-Records-Analysis)</li><li>[Exploring School Metric in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas)</li></ul>|
+| <strong>Python Programming:</strong><br><ul><li><span style="opacity: 0.6;">Python 3</span></li><li><span style="opacity: 0.6;">Numpy</span></li><li><span style="opacity: 0.6;">Pandas</span></li><li><span style="opacity: 0.6;">Matplotlib</span></li><li><span style="opacity: 0.6;">API Interactions</span></li></ul> | <ul><li>[Extreme Weather Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices)</li><li>[Traffic-Crime-Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations)</li></ul>|
+| <strong>Databases:</strong><br><ul><li><span style="opacity: 0.6;">PostgreSQL</span></li><li><span style="opacity: 0.6;">Mongo DB</span></li><li><span style="opacity: 0.6;">ETL</span></li></ul> | <ul><li>[Exploring Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records)</li><li>[Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis)</li></ul>|
+| <strong>Front End Web Visualization:</strong><br><ul><li><span style="opacity: 0.6;">HTML</span></li><li><span style="opacity: 0.6;">CSS</span></li><li><span style="opacity: 0.6;">Bootstrap</span></li><li><span style="opacity: 0.6;">Dashboarding</span></li><li><span style="opacity: 0.6;">Javascript Charting</span></li><li><span style="opacity: 0.6;">Geomapping with Leaflet.js</span></li><li><span style="opacity: 0.6;">Webscraping</ul> | <ul><li>[Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News)</li><li>[Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization)</li></ul>|
+| <strong>Business Intelligence Software:</strong><br><ul><li><span style="opacity: 0.6;">Tableau</span></li></ul> | <ul><li>[NYC-Citi-Bike-Insights](https://github.com/robert-z-lehr/NYC-Citi-Bike-Insights)</li></ul>|
+| <strong>Machine Learning:</strong><br><ul><li><span style="opacity: 0.6;">Unsupervised Learning</span></li><li><span style="opacity: 0.6;">Supervised Learning</span></li><li><span style="opacity: 0.6;">Neural Networks</span></li></ul> | <ul><li>[Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model)https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model</li><li>[Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model)</li></ul>|
+
 
 <h3 align="left">Projects:</h3>
 
