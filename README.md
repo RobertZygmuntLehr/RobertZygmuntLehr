@@ -1,7 +1,14 @@
 # Hi there! 👋 I'm Robert Lehr
 In our data-driven economy, I am building a [reference portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), my own data science cheet sheet hub, and a precursor to [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (a Tools-Widgets-Services-Hub).
 
-# Want to Connect - Questions, Ideas, Feedback?
+# Want to Connect?
+Have questions, ideas, feedback? Click the button below to share your thoughts on my GitHub Pages form.
+
+[![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/)
+
+
+# Want to Connect?
+- Have questions, ideas, feedback?
 Reach out to me through LinkedIn or email!:
 | LinkedIn | Email |
 | -------- | ----- |
