@@ -7,11 +7,9 @@ Hi, in this era of data-driven decision-making, I'm working both on a [Reference
 
 ## Connect With Me: [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/node-js-app/public/index.html)
 
-For questions, ideas, or feedback, feel free to reach out:
+For questions, ideas, or feedback, feel free to reach out
 - **LinkedIn**: [Robert Lehr](https://www.linkedin.com/in/robert-z-lehr/)
 - **Email**: [robert.z.lehr@gmail.com](mailto:robert.z.lehr@gmail.com)
-
-[![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/node-js-app/public/index.html)
 
 ---
 
