@@ -9,8 +9,6 @@ Hi, in this era of data-driven decision-making, I'm working both on a [Reference
 
 For questions, ideas, or feedback, feel free to reach out:
 
-[![Share Your Thoughts](https://robert-z-lehr.github.io/Feedback-Form/node-js-app/public/index.html)](https://robert-z-lehr.github.io/Feedback-Form/node-js-app/public/index.html)
-
 [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback-Form/node-js-app/public/index.html)
 
 - **LinkedIn**: [Robert Lehr](https://www.linkedin.com/in/robert-z-lehr/)
