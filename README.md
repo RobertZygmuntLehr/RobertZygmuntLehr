@@ -27,7 +27,7 @@ For questions, ideas, or feedback, feel free to reach out
 |                         | [Exploring School Metrics in Pandas](https://github.com/robert-z-lehr/Exploring-School-Metrics-in-Pandas) |
 | **Python Programming**  | [Extreme Weather Impact on Energy Prices](https://github.com/robert-z-lehr/Visualizing-The-Great-Freeze-Texas-Energy-Prices) |
 |                         | [Traffic-Crime-Correlations](https://github.com/robert-z-lehr/Traffic-Crime-Correlations) |
-| **Databases**           | [Exploring Pewlett-Hackard Employee Records](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records) |
+| **Databases**           | [SQL Exploring Employee Records](https://github.com/robert-z-lehr/Example-SQL-Database) |
 |                         | [Food Hygiene Analysis](https://github.com/robert-z-lehr/Food-Hygiene-Analysis) |
 | **Front End Web Visualization** | [Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) |
 |                         | [Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization) |
