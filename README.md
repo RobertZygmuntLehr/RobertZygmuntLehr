@@ -32,8 +32,10 @@ For questions, ideas, or feedback, feel free to reach out
 | **Front End Web Visualization** | [Scraping and Analyzing Mars News](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News) |
 |                         | [Geospatial Earthquake Visualization](https://github.com/robert-z-lehr/Geospatial-Earthquake-Visualization) |
 | **Business Intelligence Software** | [NYC-Citi-Bike-Insights](https://github.com/robert-z-lehr/NYC-Citi-Bike-Insights) |
-| **Machine Learning**    | [Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) |
-|                         | [Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) |
+| **Machine Learning**    | [ML-Nonprofit-Funding-Success-Model](https://github.com/robert-z-lehr/Nonprofit-Funding-Success-Model) |
+|                         | [ML-Cryptocurrencies Clustering Project](https://github.com/robert-z-lehr/Cryptocurrencies-Clustering-Model) |
+|                         | [ML-Credit-Risk-Classification](https://github.com/robert-z-lehr/ML-Credit-Risk-Classification) |
+|                         | [ML-Complex-Political-Phenomenn](https://github.com/robert-z-lehr/ML-Complex-Political-Phenomenon) |
 
 ---
 
