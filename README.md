@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-Hi, in this era of data-driven decision-making, I'm working both on a [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), jumpstarted by a [Data Analysis and Visualization BootCamp](https://techbootcamps.utexas.edu/data/), to assist future projects and on a precursor for an innovative comprehensive utility hub, [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (Tools-Widgets-Services-Hub).
+Hi, in this era of data-driven decision-making, generative AI, and critical climate-conditions, this GitHub account is both a [Reference Portfolio](https://github.com/robert-z-lehr/Data-Science-Educational-Portfolio), jumpstarted by a [Data Analysis and Visualization BootCamp](https://techbootcamps.utexas.edu/data/) for anyone to use and a precursor to an innovative comprehensive sustainability-focused machine learning utility hub, [TWSH](https://github.com/robert-z-lehr/TWSH/tree/main) (Tools-Widgets-Services-Hub).
 
 ## Connect With Me: [![Share Your Thoughts](https://img.shields.io/badge/-Share%20Your%20Thoughts-blue)](https://robert-z-lehr.github.io/Feedback/)
 
