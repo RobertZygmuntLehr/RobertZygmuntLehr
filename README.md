@@ -55,7 +55,7 @@ For questions, ideas, or feedback, feel free to reach out
   <!-- Row 1: Title -->
   <tr>
     <th><a href="https://github.com/robert-z-lehr/QR-Code-Generator">QR Code Generator!</a></th>
-    <th>Productivity Matrix Tool</th>
+    <th><a href="https://github.com/robert-z-lehr/The-Eisenhower-Matrix">Eisenhower Matrix</th>
   </tr>
   
   <!-- Row 2: Images -->
