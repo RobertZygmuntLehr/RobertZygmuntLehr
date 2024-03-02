@@ -54,7 +54,7 @@ For questions, ideas, or feedback, feel free to reach out
 <table>
   <!-- Row 1: Title -->
   <tr>
-    <th>QR Code Generator!</th>
+    <th>[QR Code Generator!](https://github.com/robert-z-lehr/QR-Code-Generator)</th>
     <th>Productivity Matrix Tool</th>
   </tr>
   
